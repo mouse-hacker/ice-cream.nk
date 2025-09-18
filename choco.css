@@ -1,0 +1,53 @@
+@charset "UTF-8"; 
+
+    
+
+body{
+    margin: 0;
+    padding: 0;
+    max-width: 100%;
+
+    font-family: 'Playfair Display';
+    font-size: 20px;
+    border-top: 10px solid #797979 !important;
+    transform: scale(0.5);
+    max-width: 900px;
+}
+
+.logo{
+    text-align: center;
+    margin: 0 auto;
+    width: 900px;
+    height: auto;
+    
+
+}
+.logo img{
+    width: 400px;
+    height: auto;
+}
+.header .explain{
+    text-align: center;
+}
+
+.rightimg img{
+    position: absolute;
+    top: 25px;
+    right: 18px;
+    width: 110px;
+    height: auto;
+    z-index: 1000;
+}
+.ttl img{
+    text-align: center;
+    width: 400px;
+    height: auto;
+}
+.explain {
+    font-family: 'Fredoka One' sans-serif;
+    letter-spacing: 0.2em;
+    text-shadow: 3px 3px #b6e10b;
+}
+.logo h4{
+    text-shadow: 3px 3px #0be1b6;
+}
