@@ -6,8 +6,8 @@ body{
     font-family: 'Playfair Display';
     font-size: 20px;
     border-top: 10px solid #797979 !important;
-    transform: scale(0.5);
-    max-width: 900px;
+    transform: scale(1.0);
+    max-width: 1200px;
 }
 
 .logo{
